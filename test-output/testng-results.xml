@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3181" started-at="2023-06-28T08:31:50Z" finished-at="2023-06-28T08:31:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3181" started-at="2023-06-28T08:31:50Z" finished-at="2023-06-28T08:31:53Z">
+      <class name="Rest_Assured.Rest_Assured.BasicValidation">
+        <test-method status="PASS" signature="basicValidation()[pri:0, instance:Rest_Assured.Rest_Assured.BasicValidation@68c4039c]" name="basicValidation" duration-ms="2385" started-at="2023-06-28T08:31:50Z" finished-at="2023-06-28T08:31:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicValidation -->
+        <test-method status="PASS" signature="respnseValidation()[pri:0, instance:Rest_Assured.Rest_Assured.BasicValidation@68c4039c]" name="respnseValidation" duration-ms="595" started-at="2023-06-28T08:31:52Z" finished-at="2023-06-28T08:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- respnseValidation -->
+        <test-method status="PASS" signature="responsemultipleValidation()[pri:0, instance:Rest_Assured.Rest_Assured.BasicValidation@68c4039c]" name="responsemultipleValidation" duration-ms="169" started-at="2023-06-28T08:31:53Z" finished-at="2023-06-28T08:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responsemultipleValidation -->
+      </class> <!-- Rest_Assured.Rest_Assured.BasicValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
